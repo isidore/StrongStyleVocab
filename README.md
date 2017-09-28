@@ -9,6 +9,8 @@ suggestions:
 
 
  Please share and improve.
+ 
+ ![Vocab for Mac](/Navigator%20Vocab%20Pairing.png?raw=true)
 
  Happy Pairing,
  Llewellyn Falco
