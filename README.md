@@ -9,8 +9,12 @@ suggestions:
 
 
  Please share and improve.
- 
+
  ![Vocab for Mac](/Navigator%20Vocab%20Pairing.png?raw=true)
 
  Happy Pairing,
  Llewellyn Falco
+
+
+
+ Note: The image .png file need to be under 500k to render right on github. Currently that is 1400X1050
